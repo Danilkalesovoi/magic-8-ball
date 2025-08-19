@@ -8,6 +8,7 @@ The amount of possible answers however is not 8.
 
 ```bash
 python magic8ball.py
+```
 
 🧑‍💻 Example
 Enter your name: Danila
@@ -20,3 +21,4 @@ Magic 8-Ball's answer: Oracles are telling me right now
 11 random possible answers
 Interactive: enter your name and question
 Beginner-friendly Python code
+
